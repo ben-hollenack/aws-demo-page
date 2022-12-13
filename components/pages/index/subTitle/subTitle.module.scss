@@ -1,0 +1,29 @@
+.textWrapper {
+    margin: 70px 0 0 590px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.text {
+    font-family: 'Amazon Ember';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 135%;
+    max-width: 739px;
+    /* or 22px */
+
+    text-align: center;
+    
+    background: linear-gradient(
+        52.96deg, 
+        #FFA800 -28.45%, 
+        #FFA800 -28.45%, #FF6600 -18.88%, 
+        #FF6600 -13.86%, 
+        #666666 9.35%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

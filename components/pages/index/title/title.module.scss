@@ -1,0 +1,24 @@
+.textWrapper {
+    margin: 32.42px 0 0 614px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.text {
+    font-family: 'Amazon Ember';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 135%;
+    /* or 86px */
+    text-align: center;
+
+    color: #FFFFFF;
+    max-width: 693px;
+    
+}
+
+.orangeText {
+    color: #F79503;
+}

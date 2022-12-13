@@ -1,0 +1,103 @@
+/* Font: Amazon Ember */
+@font-face {
+	font-family: 'Amazon Ember';
+	src: url(/fonts/amazon_ember/AmazonEmber_Rg.ttf);
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Amazon Ember';
+	src: url(/fonts/amazon_ember/AmazonEmber_Bd.ttf);
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Font: ITC Avant Garde Gothic Std Gothic Std */
+
+// Font Key
+// Obl = Italic/Slanted
+// Cn = Condensed/Narrow
+//Book = Regular/Light
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_XLight.otf);
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_XLight_Obl.otf);
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_Book.otf);
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_Book_Obl.otf);
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_Medium.otf);
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_Medium_Obl.otf);
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_SemiBold.otf);
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_SemiBold_Obl.otf);
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_Bold.otf);
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'ITC Avant Garde Gothic Std';
+	src: url(/fonts/ITC_Avant_Garde_Gothic_Std/ITCAvantGardeStd_Bold_Obl.otf);
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+}

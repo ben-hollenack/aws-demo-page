@@ -1,0 +1,39 @@
+{
+	"name": "Aws Demo",
+	"short_name": "AWS",
+	"description": "The new and improved UI for aws",
+	"icons": [
+		{
+			"src": "/images/awsLogo192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/images/awsLogo256.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		},
+		{
+			"src": "/images/awsLogo384.png",
+			"type": "image/png",
+			"sizes": "384x384"
+		},
+		{
+			"src": "/images/awsLogo512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "/images/awsLogo512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		}
+	],
+	"start_url": "/?source=pwa",
+	"background_color": "#1d2020",
+	"orientation": "portrait",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#1d2020"
+}
