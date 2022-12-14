@@ -16,8 +16,10 @@ module.exports = withPWA({
 	experimental: {
 		appDir: true,
 	},
-	i18n: {
-		locales: ["en"],
-		defaultLocale: "en",
+	images: {
+		loader: 'akamai',
+		path: '',
 	},
+
+
 })
