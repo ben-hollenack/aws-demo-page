@@ -1,0 +1,15 @@
+.row {
+	display: flex;
+	flex-direction: row;
+	height: 100vh;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+
+.textWrapper {
+	text-align: center;
+}
